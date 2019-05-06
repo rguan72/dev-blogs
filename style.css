@@ -1,0 +1,44 @@
+h {
+  font-size: 4vh;
+  font-family: sans-serif;
+}
+
+
+.margin {
+  margin-left: 4vw;
+  margin-top: 4vh;
+  margin-bottom: 3vh;
+}
+
+.card {
+  margin-top: 2vh;
+  background-color: #F5F5F5;
+  color: black;
+  border-radius: 1vw;
+  padding-top: 2vh;
+  padding-bottom: 1vw;
+  padding-left: 3vw;
+  box-shadow: 2px 2px 2px 0;
+  max-width: 50%;
+  margin-left: 4vw;
+  display: block;
+  text-decoration: none;
+}
+
+.light-gray {
+  background-color: #F5F5F5;
+}
+
+.light-gray:hover {
+  background-color: #D3D3D3;
+}
+
+.home {
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+.large-font {
+  font-size: 3vh;
+}
